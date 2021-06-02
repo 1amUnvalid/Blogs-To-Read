@@ -1,5 +1,5 @@
 # Blogs-To-Read
-Collection of Blogs &amp; Links to Refer
+Collection of Blogs &amp; Links to Refer when my browser uninstalled without exporting BookMarks :)
 
 Web Application
 - https://www.adamlogue.com/
